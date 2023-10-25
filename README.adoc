@@ -1,0 +1,10 @@
+= PDF Tac Toe
+
+LaTeX and maybe other code that generates a pdf file with slides that
+contain a game of Tic Tac Toe. The idea is to draw all reachable game
+states on slides and put links to follow-up states in each cell.
+This way, a player can play Tic Tac Toe by clicking in the pdf.
+
+This is just a fun project and there is no reason to prefer this over
+any other way of implementing tic tac toe. It is rather a way to play around
+with LaTeX, Tikz, and with ways of generating LaTeX documents.
